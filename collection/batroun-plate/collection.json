@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "name": "batroun-plate",
+ "title": "Batroun Plate",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T19:08:59.161Z",
+ "rings": [
+  {
+   "id": "batroun-santa-plate-8htl",
+   "group": "batroun-santa-plate-8htl",
+   "name": "Batroun Santa plate",
+   "index": 0,
+   "aspect": 1,
+   "sprite": "batroun-santa-plate-8htl.webp",
+   "cols": 6,
+   "rows": 7,
+   "frames": 40,
+   "fps": 14,
+   "scale": 2.2,
+   "offsetY": 0,
+   "scene": "batroun2"
+  }
+ ]
+}

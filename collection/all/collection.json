@@ -1,0 +1,59 @@
+{
+ "version": 1,
+ "name": "all",
+ "title": "All",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T19:09:11.312Z",
+ "rings": [
+  {
+   "id": "sowow-anniversary-9po2",
+   "group": "sowow-anniversary-9po2",
+   "name": "Sowow anniversary",
+   "index": 0,
+   "aspect": 1,
+   "sprite": "sowow-anniversary-9po2.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.7,
+   "offsetY": 0,
+   "reveal": true,
+   "scene": "sowow"
+  },
+  {
+   "id": "sowow-ring-kecg",
+   "group": "sowow-ring-kecg",
+   "name": "Sowow ring",
+   "index": 1,
+   "aspect": 1,
+   "sprite": "sowow-ring-kecg.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 2.6,
+   "offsetY": 0,
+   "reveal": true,
+   "scene": "sowow"
+  },
+  {
+   "id": "batroun-sail-8l2m",
+   "group": "batroun-sail-8l2m",
+   "name": "Batroun sail",
+   "index": 2,
+   "aspect": 0.5,
+   "sprite": "batroun-sail-8l2m.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0,
+   "scene": "batroun2",
+   "baseDrop": 0.7,
+   "sceneScale": 2.34,
+   "occWidth": 2.4
+  }
+ ]
+}
