@@ -3,31 +3,37 @@
  "name": "sowow",
  "title": "Sowow",
  "hint": "Point your camera at it 📷",
- "generated": "2026-10-05T09:40:21.552Z",
+ "generated": "2026-10-05T10:02:32.491Z",
  "rings": [
   {
    "id": "sowow-anniversary-9po2",
+   "group": "sowow-anniversary-9po2",
    "name": "Sowow anniversary",
    "index": 0,
+   "aspect": 1,
    "sprite": "sowow-anniversary-9po2.webp",
    "cols": 6,
    "rows": 6,
    "frames": 36,
    "fps": 14,
    "scale": 1.7,
-   "offsetY": 0
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "sowow-ring-kecg",
+   "group": "sowow-ring-kecg",
    "name": "Sowow ring",
    "index": 1,
+   "aspect": 1,
    "sprite": "sowow-ring-kecg.webp",
    "cols": 6,
    "rows": 6,
    "frames": 36,
    "fps": 14,
    "scale": 2.6,
-   "offsetY": 0
+   "offsetY": 0,
+   "reveal": true
   }
  ]
 }

@@ -3,7 +3,7 @@
  "name": "batroun",
  "title": "Batroun",
  "hint": "Point your camera at it 📷",
- "generated": "2026-10-05T09:52:22.562Z",
+ "generated": "2026-10-05T10:02:20.694Z",
  "rings": [
   {
    "id": "batroun-santa-plate-8htl",
@@ -13,11 +13,12 @@
    "aspect": 1,
    "sprite": "batroun-santa-plate-8htl.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
    "scale": 2.2,
-   "offsetY": 0
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "batroun-santa-boat-3d-togc",
@@ -27,11 +28,12 @@
    "aspect": 0.4863,
    "sprite": "batroun-santa-boat-3d-togc.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
-   "scale": 1.6,
-   "offsetY": 0
+   "scale": 2.2,
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "batroun-santa-boat-view--zdjq",
@@ -41,11 +43,12 @@
    "aspect": 1.8484,
    "sprite": "batroun-santa-boat-view--zdjq.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
-   "scale": 1.6,
-   "offsetY": 0
+   "scale": 2.2,
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "batroun-santa-boat-view--npyj",
@@ -55,11 +58,12 @@
    "aspect": 0.627,
    "sprite": "batroun-santa-boat-view--npyj.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
-   "scale": 1.6,
-   "offsetY": 0
+   "scale": 2.2,
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "batroun-santa-boat-view--fo5h",
@@ -69,11 +73,12 @@
    "aspect": 1.6954,
    "sprite": "batroun-santa-boat-view--fo5h.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
-   "scale": 1.6,
-   "offsetY": 0
+   "scale": 2.2,
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "batroun-santa-boat-view--8aal",
@@ -83,11 +88,12 @@
    "aspect": 1.6,
    "sprite": "batroun-santa-boat-view--8aal.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
-   "scale": 1.6,
-   "offsetY": 0
+   "scale": 2.2,
+   "offsetY": 0,
+   "reveal": true
   },
   {
    "id": "batroun-santa-boat-view--n7m8",
@@ -97,11 +103,12 @@
    "aspect": 2.048,
    "sprite": "batroun-santa-boat-view--n7m8.webp",
    "cols": 6,
-   "rows": 6,
-   "frames": 32,
+   "rows": 7,
+   "frames": 40,
    "fps": 14,
-   "scale": 1.6,
-   "offsetY": 0
+   "scale": 2.2,
+   "offsetY": 0,
+   "reveal": true
   }
  ]
 }
