@@ -2,7 +2,7 @@
  "version": 1,
  "name": "batroun",
  "title": "Batroun",
- "hint": "Point your camera at it 📷",
+ "hint": "Point your camera at it \ud83d\udcf7",
  "generated": "2026-10-05T13:30:41.531Z",
  "rings": [
   {
@@ -18,7 +18,8 @@
    "fps": 14,
    "scale": 2.2,
    "offsetY": 0,
-   "reveal": true
+   "reveal": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-3d-togc",
@@ -34,7 +35,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-view--zdjq",
@@ -50,7 +52,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-view--npyj",
@@ -66,7 +69,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-view--fo5h",
@@ -82,7 +86,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-view--8aal",
@@ -98,7 +103,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-view--n7m8",
@@ -114,7 +120,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   },
   {
    "id": "batroun-santa-boat-view--phon",
@@ -130,7 +137,8 @@
    "scale": 2.2,
    "offsetY": 0,
    "reveal": true,
-   "recognize": true
+   "recognize": true,
+   "scene": "batroun"
   }
  ]
 }
