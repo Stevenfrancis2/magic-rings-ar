@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Magic Rings Demo</title>
+    <meta name="description" content="3D prints that come alive on your phone — scan, point, wow." />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='3' fill='%23ff4fa3'/><rect x='4' y='4' width='8' height='8' fill='%23ffe14d'/></svg>" />
+    <style>
+      :root { --bg: #14101d; --panel: #1f1830; --ink: #f6f1ff; --muted: #a99fc2; --accent: #ff4fa3; --yellow: #ffe14d; --line: #33294a; }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--ink); font-family: ui-rounded, 'SF Pro Rounded', 'Segoe UI', system-ui, sans-serif; }
+      header { padding: 40px 20px 18px; text-align: center; }
+      h1 { margin: 0 0 8px; font-size: clamp(28px, 5vw, 46px); letter-spacing: -0.01em; }
+      h1 span { color: var(--yellow); }
+      .lead { color: var(--muted); max-width: 640px; margin: 0 auto; font-size: 17px; line-height: 1.5; }
+      .how { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0 6px; }
+      .how div { background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; font-size: 14px; }
+      .how b { color: var(--accent); margin-right: 6px; }
+      main { max-width: 1240px; margin: 0 auto; padding: 18px 16px 60px; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+      .card { background: var(--panel); border: 1px solid var(--line); border-radius: 20px; overflow: hidden; cursor: pointer; display: flex; flex-direction: column; transition: transform 0.15s, border-color 0.15s; text-align: left; color: inherit; font: inherit; padding: 0; }
+      .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+      .pic { aspect-ratio: 1; background: #0d0a14; display: grid; place-items: center; position: relative; }
+      .pic img { max-width: 86%; max-height: 86%; object-fit: contain; image-rendering: pixelated; position: absolute; transition: opacity 0.6s; border-radius: 8px; }
+      .meta { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 3px; }
+      .meta b { font-size: 16px; }
+      .meta span { color: var(--muted); font-size: 13px; }
+      .pill { position: absolute; top: 10px; left: 10px; background: var(--yellow); color: #2b1d00; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 999px; z-index: 1; }
+      /* presentation mode */
+      .show { position: fixed; inset: 0; background: #0b0811; display: grid; grid-template-columns: minmax(0, 1fr) 300px; z-index: 10; }
+      .show[hidden] { display: none; }
+      .stage { display: grid; place-items: center; padding: 3vh; min-width: 0; }
+      .stage img { max-width: 100%; max-height: 92vh; object-fit: contain; image-rendering: pixelated; border-radius: 12px; }
+      .side { background: var(--panel); padding: 24px 20px; display: flex; flex-direction: column; gap: 14px; align-items: center; text-align: center; border-left: 1px solid var(--line); }
+      .side h2 { margin: 0; font-size: 22px; }
+      .side img.qr { width: 220px; height: 220px; background: #fff; border-radius: 14px; padding: 8px; image-rendering: pixelated; }
+      .side ol { text-align: left; color: var(--muted); padding-left: 20px; margin: 0; line-height: 1.7; }
+      .side .nav { display: flex; gap: 8px; margin-top: auto; }
+      .side button { font: inherit; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 12px; padding: 8px 14px; cursor: pointer; }
+      .side button:hover { border-color: var(--accent); }
+      .side .count { color: var(--muted); font-size: 13px; }
+      .side .link { font-size: 11px; color: var(--muted); word-break: break-all; }
+      footer { text-align: center; color: var(--muted); font-size: 13px; padding: 0 16px 40px; }
+      @media (max-width: 760px) { .show { grid-template-columns: 1fr; grid-template-rows: 1fr auto; } .side { border-left: 0; border-top: 1px solid var(--line); } .side img.qr { width: 140px; height: 140px; } .stage img { max-height: 55vh; } }
+    </style>
+    <script type="module" crossorigin src="./assets/demo-E-WtLacJ.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+  </head>
+  <body>
+    <header>
+      <h1>3D prints that <span>come alive</span> ✨</h1>
+      <p class="lead">Rings, keychains, clickers, coasters, plates — your phone camera recognises the printed item and an animation pops out of it. No app, just a link.</p>
+      <div class="how"><div><b>1</b>Pick a product below</div><div><b>2</b>Scan its QR with your phone</div><div><b>3</b>Point the phone at the picture on this screen</div></div>
+    </header>
+    <main id="grid"></main>
+    <footer>Made in Lebanon 🇱🇧 · CliGli · Magic Rings</footer>
+    <div class="show" id="show" hidden>
+      <div class="stage"><img id="show-img" alt="" /></div>
+      <aside class="side">
+        <h2 id="show-title"></h2>
+        <img class="qr" id="show-qr" alt="QR code" />
+        <ol><li>Scan the QR with your phone camera</li><li>Tap “Start” and allow the camera</li><li>Point it at the picture ←</li></ol>
+        <span class="count" id="show-count"></span>
+        <span class="link" id="show-link"></span>
+        <div class="nav"><button id="prev">← Prev</button><button id="next">Next →</button><button id="close">✕</button></div>
+      </aside>
+    </div>
+  </body>
+</html>
