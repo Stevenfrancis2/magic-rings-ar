@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "name": "advent",
+ "title": "Advent",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T10:42:50.148Z",
+ "rings": [
+  {
+   "id": "advent-clicker-flg7",
+   "group": "advent-clicker-flg7",
+   "name": "Advent Clicker",
+   "index": 0,
+   "aspect": 0.6719,
+   "sprite": "advent-clicker-flg7.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 0.9,
+   "offsetY": 0,
+   "reveal": true,
+   "daily": [
+    "advent-clicker-flg7-d1.webp",
+    "advent-clicker-flg7-d2.webp",
+    "advent-clicker-flg7-d3.webp",
+    "advent-clicker-flg7-d4.webp",
+    "advent-clicker-flg7-d5.webp",
+    "advent-clicker-flg7-d6.webp",
+    "advent-clicker-flg7-d7.webp",
+    "advent-clicker-flg7-d8.webp",
+    "advent-clicker-flg7-d9.webp",
+    "advent-clicker-flg7-d10.webp",
+    "advent-clicker-flg7-d11.webp",
+    "advent-clicker-flg7-d12.webp",
+    "advent-clicker-flg7-d13.webp",
+    "advent-clicker-flg7-d14.webp",
+    "advent-clicker-flg7-d15.webp",
+    "advent-clicker-flg7-d16.webp",
+    "advent-clicker-flg7-d17.webp",
+    "advent-clicker-flg7-d18.webp",
+    "advent-clicker-flg7-d19.webp",
+    "advent-clicker-flg7-d20.webp",
+    "advent-clicker-flg7-d21.webp",
+    "advent-clicker-flg7-d22.webp",
+    "advent-clicker-flg7-d23.webp",
+    "advent-clicker-flg7-d24.webp"
+   ],
+   "dailyStart": "12-01"
+  }
+ ]
+}
