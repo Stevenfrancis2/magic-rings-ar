@@ -1,0 +1,129 @@
+{
+ "version": 1,
+ "name": "f1-tracks",
+ "title": "F1 Tracks",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T08:41:27.249Z",
+ "rings": [
+  {
+   "id": "track-monaco-zc0z",
+   "name": "Track Monaco",
+   "index": 0,
+   "sprite": "track-monaco-zc0z.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-monza-0tcw",
+   "name": "Track Monza",
+   "index": 1,
+   "sprite": "track-monza-0tcw.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-silverstone-270s",
+   "name": "Track Silverstone",
+   "index": 2,
+   "sprite": "track-silverstone-270s.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-spa-vf5z",
+   "name": "Track Spa",
+   "index": 3,
+   "sprite": "track-spa-vf5z.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-suzuka-g8dj",
+   "name": "Track Suzuka",
+   "index": 4,
+   "sprite": "track-suzuka-g8dj.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-abu-dhabi-z3wq",
+   "name": "Track Abu Dhabi",
+   "index": 5,
+   "sprite": "track-abu-dhabi-z3wq.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-las-vegas-kfjn",
+   "name": "Track Las Vegas",
+   "index": 6,
+   "sprite": "track-las-vegas-kfjn.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-singapore-3wf9",
+   "name": "Track Singapore",
+   "index": 7,
+   "sprite": "track-singapore-3wf9.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-jeddah-0k53",
+   "name": "Track Jeddah",
+   "index": 8,
+   "sprite": "track-jeddah-0k53.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  },
+  {
+   "id": "track-interlagos-a85j",
+   "name": "Track Interlagos",
+   "index": 9,
+   "sprite": "track-interlagos-a85j.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1.3,
+   "offsetY": 0
+  }
+ ]
+}

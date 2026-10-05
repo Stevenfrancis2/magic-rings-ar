@@ -1,0 +1,139 @@
+{
+ "version": 1,
+ "name": "main",
+ "generated": "2026-10-05T02:35:34.417Z",
+ "rings": [
+  {
+   "id": "pikachu-6yw1",
+   "name": "Pikachu",
+   "index": 0,
+   "sprite": "pikachu-6yw1.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "bulbasaur-b9d5",
+   "name": "Bulbasaur",
+   "index": 1,
+   "sprite": "bulbasaur-b9d5.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "charmander-cl5m",
+   "name": "Charmander",
+   "index": 2,
+   "sprite": "charmander-cl5m.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "squirtle-0f3n",
+   "name": "Squirtle",
+   "index": 3,
+   "sprite": "squirtle-0f3n.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "jigglypuff-bexf",
+   "name": "Jigglypuff",
+   "index": 4,
+   "sprite": "jigglypuff-bexf.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "gengar-5cef",
+   "name": "Gengar",
+   "index": 5,
+   "sprite": "gengar-5cef.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "eevee-18vp",
+   "name": "Eevee",
+   "index": 6,
+   "sprite": "eevee-18vp.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "snorlax-vob8",
+   "name": "Snorlax",
+   "index": 7,
+   "sprite": "snorlax-vob8.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "mew-g0mg",
+   "name": "Mew",
+   "index": 8,
+   "sprite": "mew-g0mg.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "psyduck-69vk",
+   "name": "Psyduck",
+   "index": 9,
+   "sprite": "psyduck-69vk.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  },
+  {
+   "id": "togepi-eqaq",
+   "name": "Togepi",
+   "index": 10,
+   "sprite": "togepi-eqaq.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+    <meta name="theme-color" content="#1b1528" />
+    <title>Magic Rings</title>
+    <meta name="description" content="Point your camera at your Magic Rings and watch them come alive." />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='3' fill='%23ff4fa3'/><rect x='4' y='4' width='8' height='8' fill='%23ffe14d'/></svg>" />
+    <style>
+      :root { --accent: #ff4fa3; --accent-2: #ffe14d; --ink: #fff; --bg: #1b1528; }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); font-family: ui-rounded, 'SF Pro Rounded', system-ui, sans-serif; overflow: hidden; }
+      #start {
+        position: fixed; inset: 0; z-index: 10; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px;
+        padding: 24px; text-align: center;
+        background: radial-gradient(circle at 50% 30%, #4a2f6e, var(--bg) 70%);
+      }
+      #start h1 { font-size: 34px; margin: 0; letter-spacing: 0.01em; }
+      #start p { margin: 0; opacity: 0.85; max-width: 320px; line-height: 1.4; }
+      .gems { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; max-width: 340px; }
+      .gems img { width: 44px; height: 44px; border-radius: 9px; image-rendering: pixelated; box-shadow: 0 4px 14px #0006; animation: bob 2.4s ease-in-out infinite; }
+      .gems img:nth-child(2n) { animation-delay: -1.2s; }
+      @keyframes bob { 50% { transform: translateY(-6px); } }
+      #go {
+        font: inherit; font-size: 20px; font-weight: 700; color: #2b1d00; background: var(--accent-2); border: 0; border-radius: 999px;
+        padding: 16px 34px; box-shadow: 0 8px 30px #ffe14d55; cursor: pointer;
+      }
+      #go:active { transform: scale(0.97); }
+      .fine { font-size: 12px; opacity: 0.6; }
+      #hud { position: fixed; left: 0; right: 0; bottom: max(18px, env(safe-area-inset-bottom)); z-index: 5; display: flex; justify-content: center; pointer-events: none; }
+      #hud span { background: #1b1528cc; backdrop-filter: blur(6px); padding: 10px 16px; border-radius: 999px; font-size: 15px; transition: opacity 0.3s; }
+      #err { position: fixed; inset: 0; z-index: 20; display: none; place-items: center; padding: 30px; text-align: center; background: var(--bg); }
+      .a-enter-vr, .a-enter-ar { display: none !important; }
+    </style>
+    <script type="module" crossorigin src="./assets/index-DqIsf1KG.js"></script>
+  </head>
+  <body>
+    <div id="start">
+      <h1>✨ Magic Rings ✨</h1>
+      <div class="gems" id="gems"></div>
+      <p>Hold your hand in good light and point the camera at your rings.</p>
+      <button id="go">Wake them up</button>
+      <p class="fine">Works in Safari (iPhone) and Chrome (Android). Nothing to install.</p>
+    </div>
+    <div id="hud" hidden><span id="hud-text">Point at your rings 💍</span></div>
+    <div id="err"><div><h2>Camera needed</h2><p id="err-text"></p></div></div>
+    <script src="./vendor/aframe.min.js"></script>
+    <script src="./vendor/mindar-image-aframe.prod.js"></script>
+  </body>
+</html>

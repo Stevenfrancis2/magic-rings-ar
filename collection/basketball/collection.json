@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "name": "basketball",
+ "title": "Basketball",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T02:41:40.219Z",
+ "rings": [
+  {
+   "id": "bb-sagesse-rtgp",
+   "name": "BB Sagesse",
+   "index": 0,
+   "sprite": "bb-sagesse-rtgp.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "bb-riyadi-j0nx",
+   "name": "BB Riyadi",
+   "index": 1,
+   "sprite": "bb-riyadi-j0nx.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "bb-central-jounieh-gq6u",
+   "name": "BB Central Jounieh",
+   "index": 2,
+   "sprite": "bb-central-jounieh-gq6u.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  }
+ ]
+}

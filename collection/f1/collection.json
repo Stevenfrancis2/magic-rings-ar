@@ -1,0 +1,141 @@
+{
+ "version": 1,
+ "name": "f1",
+ "title": "F1",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T02:36:15.137Z",
+ "rings": [
+  {
+   "id": "f1-red-bull-ogmu",
+   "name": "F1 Red Bull",
+   "index": 0,
+   "sprite": "f1-red-bull-ogmu.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-mercedes-m1p8",
+   "name": "F1 Mercedes",
+   "index": 1,
+   "sprite": "f1-mercedes-m1p8.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-ferrari-321g",
+   "name": "F1 Ferrari",
+   "index": 2,
+   "sprite": "f1-ferrari-321g.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-mclaren-uxnq",
+   "name": "F1 McLaren",
+   "index": 3,
+   "sprite": "f1-mclaren-uxnq.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-aston-martin-cx15",
+   "name": "F1 Aston Martin",
+   "index": 4,
+   "sprite": "f1-aston-martin-cx15.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-alpine-gbjh",
+   "name": "F1 Alpine",
+   "index": 5,
+   "sprite": "f1-alpine-gbjh.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-williams-gf5z",
+   "name": "F1 Williams",
+   "index": 6,
+   "sprite": "f1-williams-gf5z.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-racing-bulls-7p4k",
+   "name": "F1 Racing Bulls",
+   "index": 7,
+   "sprite": "f1-racing-bulls-7p4k.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-audi-vl0p",
+   "name": "F1 Audi",
+   "index": 8,
+   "sprite": "f1-audi-vl0p.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-haas-f1j1",
+   "name": "F1 Haas",
+   "index": 9,
+   "sprite": "f1-haas-f1j1.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  },
+  {
+   "id": "f1-cadillac-op00",
+   "name": "F1 Cadillac",
+   "index": 10,
+   "sprite": "f1-cadillac-op00.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.1,
+   "offsetY": 0
+  }
+ ]
+}

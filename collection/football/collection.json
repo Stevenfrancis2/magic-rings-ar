@@ -1,0 +1,153 @@
+{
+ "version": 1,
+ "name": "football",
+ "title": "Football",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T02:42:27.293Z",
+ "rings": [
+  {
+   "id": "fc-real-madrid-xhg1",
+   "name": "FC Real Madrid",
+   "index": 0,
+   "sprite": "fc-real-madrid-xhg1.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-barcelona-rn9x",
+   "name": "FC Barcelona",
+   "index": 1,
+   "sprite": "fc-barcelona-rn9x.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-man-united-94s3",
+   "name": "FC Man United",
+   "index": 2,
+   "sprite": "fc-man-united-94s3.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-liverpool-i4a8",
+   "name": "FC Liverpool",
+   "index": 3,
+   "sprite": "fc-liverpool-i4a8.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-man-city-9pdp",
+   "name": "FC Man City",
+   "index": 4,
+   "sprite": "fc-man-city-9pdp.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-arsenal-xnbp",
+   "name": "FC Arsenal",
+   "index": 5,
+   "sprite": "fc-arsenal-xnbp.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-chelsea-la54",
+   "name": "FC Chelsea",
+   "index": 6,
+   "sprite": "fc-chelsea-la54.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-bayern-289k",
+   "name": "FC Bayern",
+   "index": 7,
+   "sprite": "fc-bayern-289k.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-paris-839x",
+   "name": "FC Paris",
+   "index": 8,
+   "sprite": "fc-paris-839x.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-juventus-k42r",
+   "name": "FC Juventus",
+   "index": 9,
+   "sprite": "fc-juventus-k42r.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-milan-v2gk",
+   "name": "FC Milan",
+   "index": 10,
+   "sprite": "fc-milan-v2gk.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "fc-inter-p9uy",
+   "name": "FC Inter",
+   "index": 11,
+   "sprite": "fc-inter-p9uy.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  }
+ ]
+}

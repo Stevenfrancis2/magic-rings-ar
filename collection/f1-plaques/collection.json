@@ -1,0 +1,129 @@
+{
+ "version": 1,
+ "name": "f1-plaques",
+ "title": "F1 Plaques",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T09:26:04.170Z",
+ "rings": [
+  {
+   "id": "plaque-monaco-gkk1",
+   "name": "Plaque Monaco",
+   "index": 0,
+   "sprite": "plaque-monaco-gkk1.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-monza-td1d",
+   "name": "Plaque Monza",
+   "index": 1,
+   "sprite": "plaque-monza-td1d.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-silverstone-2ic9",
+   "name": "Plaque Silverstone",
+   "index": 2,
+   "sprite": "plaque-silverstone-2ic9.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-spa-9odu",
+   "name": "Plaque Spa",
+   "index": 3,
+   "sprite": "plaque-spa-9odu.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-suzuka-ut4z",
+   "name": "Plaque Suzuka",
+   "index": 4,
+   "sprite": "plaque-suzuka-ut4z.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-abu-dhabi-5rgb",
+   "name": "Plaque Abu Dhabi",
+   "index": 5,
+   "sprite": "plaque-abu-dhabi-5rgb.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-las-vegas-mwnp",
+   "name": "Plaque Las Vegas",
+   "index": 6,
+   "sprite": "plaque-las-vegas-mwnp.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-singapore-zxty",
+   "name": "Plaque Singapore",
+   "index": 7,
+   "sprite": "plaque-singapore-zxty.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-jeddah-yl1i",
+   "name": "Plaque Jeddah",
+   "index": 8,
+   "sprite": "plaque-jeddah-yl1i.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  },
+  {
+   "id": "plaque-interlagos-yuak",
+   "name": "Plaque Interlagos",
+   "index": 9,
+   "sprite": "plaque-interlagos-yuak.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": -1
+  }
+ ]
+}

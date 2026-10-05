@@ -1,0 +1,129 @@
+{
+ "version": 1,
+ "name": "f1-coasters",
+ "title": "F1 Coasters",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T08:57:10.103Z",
+ "rings": [
+  {
+   "id": "coaster-monaco-sv7p",
+   "name": "Coaster Monaco",
+   "index": 0,
+   "sprite": "coaster-monaco-sv7p.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-monza-qip1",
+   "name": "Coaster Monza",
+   "index": 1,
+   "sprite": "coaster-monza-qip1.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-silverstone-ql3e",
+   "name": "Coaster Silverstone",
+   "index": 2,
+   "sprite": "coaster-silverstone-ql3e.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-spa-mec1",
+   "name": "Coaster Spa",
+   "index": 3,
+   "sprite": "coaster-spa-mec1.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-suzuka-haxd",
+   "name": "Coaster Suzuka",
+   "index": 4,
+   "sprite": "coaster-suzuka-haxd.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-abu-dhabi-vp14",
+   "name": "Coaster Abu Dhabi",
+   "index": 5,
+   "sprite": "coaster-abu-dhabi-vp14.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-las-vegas-564r",
+   "name": "Coaster Las Vegas",
+   "index": 6,
+   "sprite": "coaster-las-vegas-564r.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-singapore-jyu4",
+   "name": "Coaster Singapore",
+   "index": 7,
+   "sprite": "coaster-singapore-jyu4.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-jeddah-6f3m",
+   "name": "Coaster Jeddah",
+   "index": 8,
+   "sprite": "coaster-jeddah-6f3m.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  },
+  {
+   "id": "coaster-interlagos-7znz",
+   "name": "Coaster Interlagos",
+   "index": 9,
+   "sprite": "coaster-interlagos-7znz.webp",
+   "cols": 6,
+   "rows": 6,
+   "frames": 36,
+   "fps": 14,
+   "scale": 1,
+   "offsetY": 0
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "version": 1,
+ "name": "restaurant-demo",
+ "title": "Restaurant Demo",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T08:48:07.204Z",
+ "rings": [
+  {
+   "id": "menu-pizza-ja2o",
+   "name": "Menu Pizza",
+   "index": 0,
+   "sprite": "menu-pizza-ja2o.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "menu-burger-zh0y",
+   "name": "Menu Burger",
+   "index": 1,
+   "sprite": "menu-burger-zh0y.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "menu-drink-i2ud",
+   "name": "Menu Drink",
+   "index": 2,
+   "sprite": "menu-drink-i2ud.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "menu-ice-cream-ve81",
+   "name": "Menu Ice Cream",
+   "index": 3,
+   "sprite": "menu-ice-cream-ve81.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "menu-coffee-ifh9",
+   "name": "Menu Coffee",
+   "index": 4,
+   "sprite": "menu-coffee-ifh9.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  }
+ ]
+}

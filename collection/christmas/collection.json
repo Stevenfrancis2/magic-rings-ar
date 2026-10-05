@@ -1,0 +1,93 @@
+{
+ "version": 1,
+ "name": "christmas",
+ "title": "Christmas",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T02:36:49.656Z",
+ "rings": [
+  {
+   "id": "xmas-christmas-tree-ergl",
+   "name": "Xmas Christmas Tree",
+   "index": 0,
+   "sprite": "xmas-christmas-tree-ergl.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "xmas-santa-vi3k",
+   "name": "Xmas Santa",
+   "index": 1,
+   "sprite": "xmas-santa-vi3k.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "xmas-snowman-bc01",
+   "name": "Xmas Snowman",
+   "index": 2,
+   "sprite": "xmas-snowman-bc01.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "xmas-gingerbread-h2c5",
+   "name": "Xmas Gingerbread",
+   "index": 3,
+   "sprite": "xmas-gingerbread-h2c5.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "xmas-reindeer-656r",
+   "name": "Xmas Reindeer",
+   "index": 4,
+   "sprite": "xmas-reindeer-656r.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "xmas-present-mdza",
+   "name": "Xmas Present",
+   "index": 5,
+   "sprite": "xmas-present-mdza.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  },
+  {
+   "id": "xmas-candy-cane-gul9",
+   "name": "Xmas Candy Cane",
+   "index": 6,
+   "sprite": "xmas-candy-cane-gul9.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.2,
+   "offsetY": 0
+  }
+ ]
+}

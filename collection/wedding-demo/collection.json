@@ -1,0 +1,23 @@
+{
+ "version": 1,
+ "name": "wedding-demo",
+ "title": "Wedding Demo",
+ "hint": "Point your camera at it 📷",
+ "generated": "2026-10-05T02:36:49.936Z",
+ "rings": [
+  {
+   "id": "wedding-w-and-s-m4hz",
+   "name": "Wedding W and S",
+   "index": 0,
+   "sprite": "wedding-w-and-s-m4hz.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.6,
+   "offsetY": 0.05,
+   "video": "wedding-w-and-s-m4hz-video.mp4",
+   "videoAspect": 0.5625
+  }
+ ]
+}
