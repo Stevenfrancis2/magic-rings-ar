@@ -36,8 +36,8 @@
    "fps": 12,
    "scale": 1.5,
    "offsetY": 0,
-   "scene": "batroun3",
-   "sceneScale": 2.4
+   "scene": "batroun-lights",
+   "sceneScale": 1
   }
  ]
 }

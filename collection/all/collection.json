@@ -2,7 +2,7 @@
  "version": 1,
  "name": "all",
  "title": "All",
- "hint": "Point your camera at it 📷",
+ "hint": "Point your camera at it \ud83d\udcf7",
  "generated": "2026-10-07T16:02:08.725Z",
  "rings": [
   {
@@ -68,9 +68,8 @@
    "fps": 12,
    "scale": 1.5,
    "offsetY": 0,
-   "scene": "batroun3",
-   "baseDrop": 0,
-   "sceneScale": 2.4
+   "scene": "batroun-lights",
+   "sceneScale": 1
   }
  ]
 }
