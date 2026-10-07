@@ -2,8 +2,8 @@
  "version": 1,
  "name": "batroun",
  "title": "Batroun",
- "hint": "Point your camera at it 📷",
- "generated": "2026-10-05T19:08:52.932Z",
+ "hint": "Point your camera at it \ud83d\udcf7",
+ "generated": "2026-10-07T15:55:27.948Z",
  "rings": [
   {
    "id": "batroun-sail-8l2m",
@@ -22,6 +22,22 @@
    "baseDrop": 0.7,
    "sceneScale": 2.34,
    "occWidth": 2.4
+  },
+  {
+   "id": "batroun-christmas-clicke-thct",
+   "group": "batroun-christmas-clicke-thct",
+   "name": "Batroun Christmas clicker",
+   "index": 1,
+   "aspect": 1,
+   "sprite": "batroun-christmas-clicke-thct.webp",
+   "cols": 6,
+   "rows": 4,
+   "frames": 24,
+   "fps": 12,
+   "scale": 1.5,
+   "offsetY": 0,
+   "scene": "batroun3",
+   "sceneScale": 2.4
   }
  ]
 }
